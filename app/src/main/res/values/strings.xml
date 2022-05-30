@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TechnPlayer</string>
+    <string name="media_url_mp3">https://www.bensound.com/bensound-music/bensound-sunny.mp3</string>
+</resources>
